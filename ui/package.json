@@ -44,7 +44,7 @@
     "express-history-api-fallback": "2.1.0",
     "http-proxy": "1.16.2",
     "ncp": "2.0.0",
-    "node-sass": "4.5.2",
+    "node-sass": "4.14.1",
     "npm": "6.13.4",
     "open": "0.0.5",
     "rimraf": "2.6.1",
